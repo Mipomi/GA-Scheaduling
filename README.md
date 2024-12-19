@@ -12,7 +12,7 @@ Masuk ke direktori proyek
 ```bash
 $ cd GA-Scheaduling
 ```
-Jalankan bot
+Jalankan 
 ```bash
 $ python main.py
 ```
